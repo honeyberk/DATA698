@@ -8,6 +8,6 @@ This course will cover the in detail the most up-to-date trends in energy distri
 
 2/25/2017
 - Spoke with Rokshana last week to find out if there was a syllabus developed for the course when it was proposed; she said no, but said that since the course was included in the approved curriculum she would not need to obtain approval from NYSED.
-- Building topic outline (see Topic Outline in repo: ); in progress
+- Building topic outline (see Topic Outline in repo: https://github.com/honeyberk/DATA698/blob/master/Topic%20Outline); in progress
 - Researching sources for content; in progress.
 - Found a potential textbook, need to purchase and review: http://www.aeeprograms.com/store/detail.cfm?id=1188&category_id=6; in progress.
