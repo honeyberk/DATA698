@@ -1,0 +1,42 @@
+Sustainability Basics
+- Climate change
+- Global perspective
+- U.S. perspective
+Energy Basics
+- Terminology
+- Conversion factors
+- Physics of Energy
+Building System Basics
+- HVAC
+- Lighting
+- Plug loads
+- Occupant considerations
+Energy distribution
+- Energy flows
+- LLNL's energy flow charts (https://flowcharts.llnl.gov/content/assets/images/charts/Energy/Energy_2015_United-States.png)
+Energy consumption
+- Utility billing
+- Time series
+- Variables: weather, occupancy, operating hours, production, other
+- Linear Regression
+- Linear change-point regression
+- Tools: ETracker
+Demand (Electricity)
+- Consumption vs. demand
+- Load profiles
+- Demand response vs. demand management
+- Strategies
+Monitoring
+Conservation
+Building control systems
+- Purpose of control
+- Pneumatic vs. DDC
+- Trend logs
+Energy Measurement
+- Types of measurement
+- Handheld equipment
+- Data loggers
+Energy modeling
+- Tools
+- OpenStudio
+Economic considerations
